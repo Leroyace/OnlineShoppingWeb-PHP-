@@ -1,0 +1,39 @@
+#shoppingcart{
+	margin-top:0px;
+	margin-left: 50px;*/
+	height: 100px;
+	width: 600px;
+	background: #eee;
+	border: 1px solid #444;
+}
+
+#caplist, #contents {
+	margin-top: 10px;
+	margin-left: 50px;
+	alignment-adjust:central;	
+    width: 600px;
+	background: #ddd;
+	border: 1px solid #333;
+}
+
+#caplist ul {
+	list-style-type: none;
+}
+
+#caplist ul li {
+	margin: 0 1em 1em;
+}
+
+#contents table {
+	font-size: 90%;
+	border-collapse: collapse;
+}
+
+#contents table td {
+	border: 1px solid #999;
+	width: 20%;
+}
+
+#contents p, #contents button {
+	margin: 1em;
+}
